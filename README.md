@@ -1,5 +1,7 @@
 # AC/DC OPF with RES-Side Privacy Preservation: Distributed vs. Projection Method
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23808784.svg)](https://doi.org/10.5281/zenodo.23808784)
+
 Code and data accompanying the MEDPOWER 2026 contribution (Paphos, Cyprus, 3–6 Nov. 2026):
 
 > H. Li, S. Singh, A. Lekić, "AC/DC OPF with Renewable Energy Source-Side Privacy Preservation: Distributed Method vs. Projection Method," MEDPOWER 2026.
