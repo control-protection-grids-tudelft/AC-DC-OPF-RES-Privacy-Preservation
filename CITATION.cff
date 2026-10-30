@@ -1,0 +1,59 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+type: software
+title: "AC/DC OPF with RES-Side Privacy Preservation: Distributed vs. Projection Method"
+abstract: >-
+  MATLAB/YALMIP code comparing a distributed (ADMM) and a projection-based
+  (epsilon-constrained method) approach to SOCP-relaxed AC/DC optimal power
+  flow with renewable-energy-source-side privacy preservation, benchmarked
+  against centralized optimization on a 9-bus AC / 5-terminal MTDC test system.
+authors:
+  - given-names: Haixiao
+    family-names: Li
+    affiliation: "Delft University of Technology"
+  - given-names: Sunny
+    family-names: Singh
+    affiliation: "Delft University of Technology"
+  - given-names: Aleksandra
+    family-names: Lekić
+    affiliation: "Delft University of Technology"
+    orcid: "https://orcid.org/0000-0003-2727-0767"
+doi: 10.5281/zenodo.23808728
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23808728
+    description: "Zenodo archive"
+  - type: doi
+    value: 10.5281/zenodo.23808784
+    description: "Zenodo archive"
+repository-code: "https://github.com/control-protection-grids-tudelft/AC-DC-OPF-RES-Privacy-Preservation"
+keywords:
+  - AC/DC optimal power flow
+  - MTDC
+  - privacy preservation
+  - renewable energy sources
+  - ADMM
+  - feasible region projection
+  - SOCP
+date-released: 2026-10-30
+preferred-citation:
+  type: conference-paper
+  title: "AC/DC OPF with Renewable Energy Source-Side Privacy Preservation: Distributed Method vs. Projection Method"
+  authors:
+    - given-names: Haixiao
+      family-names: Li
+      affiliation: "Delft University of Technology"
+    - given-names: Sunny
+      family-names: Singh
+      affiliation: "Delft University of Technology"
+    - given-names: Aleksandra
+      family-names: Lekić
+      affiliation: "Delft University of Technology"
+      orcid: "https://orcid.org/0000-0003-2727-0767"
+  conference:
+    name: "MEDPOWER 2026"
+    city: Paphos
+    country: CY
+    date-start: 2026-11-03
+    date-end: 2026-11-06
+  year: 2026
